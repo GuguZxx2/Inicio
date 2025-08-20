@@ -1,1 +1,2 @@
-Olá, hoje 13/08/2025 é a data na qual estou iniciando um projeto utilizando o VS Code para teste e treino 
+Desenvimento-Teste
+Criei este projeto com fins educacionais e para meu próprio entendimento. O Objetivo desse projeto é para fim educacional e para uso pessoal de desenvolvimento, testando assim o que consigo fazer utilizando o conhecimento que tenho no momento e buscando aperfeiçoar minhas habilidades Utilizei para esse projeto a linguagem JavaScript, a linguagem de marcação HTML e a linguagem de estilização CSS.
